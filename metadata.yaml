@@ -1,11 +1,16 @@
 _repo: Il-Lago-di-Como-e-il-Pian-d-Erba-Escursioni-autunnali_65610
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 65610-h/images/cover.jpg
 creator:
   author:
     agent_name: Curti, Pier Ambrogio
     gutenberg_agent_id: '53428'
     url: http://www.gutenberg.org/2009/agents/53428
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65610#Il-Lago-di-Como-e-il-Pian-d-Erba-Escursioni-autunnali
 gutenberg_issued: '2021-06-13'
 gutenberg_type: Text
 identifiers:
